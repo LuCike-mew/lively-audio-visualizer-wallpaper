@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Customizable Audio Visualizer",
+  "Thumbnail": null,
+  "Preview": null,
+  "Desc": "Универсальный аудио-визуализатор для Lively Wallpaper с интерактивным шлейфом курсора и поддержкой Spotify.",
+  "Author": null,
+  "License": null,
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--system-nowplaying --audio",
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
